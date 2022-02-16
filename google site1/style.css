@@ -1,0 +1,42 @@
+body{ 
+    font-size: large;
+    color: white;
+text-align: center;
+margin-top: 200px;
+}
+
+button{
+    margin: 10px;
+    padding: 10px;
+}
+input{
+    height: 30px;
+    width: 400px;
+}
+
+a{
+    color: rgb(237, 240, 243);
+    font-style: bold;
+}
+
+.box2{
+padding: 20px;
+}
+
+.search{
+    background-color: rgb(143, 143, 143);
+}
+.dis{
+    margin-left: 80px;
+}
+
+.ic{
+    float: left;
+    margin: 5px;
+    background-color: rgb(106, 168, 137);
+    height: 150px;
+    width: 500px;
+    text-align: center;
+    padding: 30px;
+}
+
